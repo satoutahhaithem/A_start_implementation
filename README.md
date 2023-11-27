@@ -4,7 +4,7 @@
 
 Embark on a journey through the implementation of the A* pathfinding algorithm, seamlessly woven into the fabric of Python's Tkinter package. A testament to efficiency in graph traversal, this algorithm elegantly balances heuristic functions and node costs to pave the way from start to goal.
 
-# The Code implementation
+# python Code implementation
 
 ```python
 from tkinter import *
